@@ -1,0 +1,12 @@
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\EF_LINQ\LTCSDL-EF-LINQ-Core\LTCSDL.DTO\bin\Debug\net5.0\LTCSDL.DTO.deps.json
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\EF_LINQ\LTCSDL-EF-LINQ-Core\LTCSDL.DTO\bin\Debug\net5.0\LTCSDL.DTO.dll
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\EF_LINQ\LTCSDL-EF-LINQ-Core\LTCSDL.DTO\bin\Debug\net5.0\ref\LTCSDL.DTO.dll
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\EF_LINQ\LTCSDL-EF-LINQ-Core\LTCSDL.DTO\bin\Debug\net5.0\LTCSDL.DTO.pdb
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\EF_LINQ\LTCSDL-EF-LINQ-Core\LTCSDL.DTO\obj\Debug\net5.0\LTCSDL.DTO.csproj.AssemblyReference.cache
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\EF_LINQ\LTCSDL-EF-LINQ-Core\LTCSDL.DTO\obj\Debug\net5.0\LTCSDL.DTO.GeneratedMSBuildEditorConfig.editorconfig
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\EF_LINQ\LTCSDL-EF-LINQ-Core\LTCSDL.DTO\obj\Debug\net5.0\LTCSDL.DTO.AssemblyInfoInputs.cache
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\EF_LINQ\LTCSDL-EF-LINQ-Core\LTCSDL.DTO\obj\Debug\net5.0\LTCSDL.DTO.AssemblyInfo.cs
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\EF_LINQ\LTCSDL-EF-LINQ-Core\LTCSDL.DTO\obj\Debug\net5.0\LTCSDL.DTO.csproj.CoreCompileInputs.cache
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\EF_LINQ\LTCSDL-EF-LINQ-Core\LTCSDL.DTO\obj\Debug\net5.0\LTCSDL.DTO.dll
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\EF_LINQ\LTCSDL-EF-LINQ-Core\LTCSDL.DTO\obj\Debug\net5.0\ref\LTCSDL.DTO.dll
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\EF_LINQ\LTCSDL-EF-LINQ-Core\LTCSDL.DTO\obj\Debug\net5.0\LTCSDL.DTO.pdb

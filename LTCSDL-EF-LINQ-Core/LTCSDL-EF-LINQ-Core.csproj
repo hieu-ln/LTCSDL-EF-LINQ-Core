@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>LTCSDL_EF_LINQ_Core</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LTCSDL.BLL\LTCSDL.BLL.csproj" />
+    <ProjectReference Include="..\LTCSDL.DTO\LTCSDL.DTO.csproj" />
+  </ItemGroup>
+
+</Project>

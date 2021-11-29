@@ -1,0 +1,17 @@
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\EF_LINQ\LTCSDL-EF-LINQ-Core\LTCSDL.BLL\bin\Debug\net5.0\LTCSDL.BLL.deps.json
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\EF_LINQ\LTCSDL-EF-LINQ-Core\LTCSDL.BLL\bin\Debug\net5.0\LTCSDL.BLL.dll
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\EF_LINQ\LTCSDL-EF-LINQ-Core\LTCSDL.BLL\bin\Debug\net5.0\ref\LTCSDL.BLL.dll
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\EF_LINQ\LTCSDL-EF-LINQ-Core\LTCSDL.BLL\bin\Debug\net5.0\LTCSDL.BLL.pdb
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\EF_LINQ\LTCSDL-EF-LINQ-Core\LTCSDL.BLL\bin\Debug\net5.0\LTCSDL.DAL.dll
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\EF_LINQ\LTCSDL-EF-LINQ-Core\LTCSDL.BLL\bin\Debug\net5.0\LTCSDL.DTO.dll
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\EF_LINQ\LTCSDL-EF-LINQ-Core\LTCSDL.BLL\bin\Debug\net5.0\LTCSDL.DAL.pdb
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\EF_LINQ\LTCSDL-EF-LINQ-Core\LTCSDL.BLL\bin\Debug\net5.0\LTCSDL.DTO.pdb
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\EF_LINQ\LTCSDL-EF-LINQ-Core\LTCSDL.BLL\obj\Debug\net5.0\LTCSDL.BLL.csproj.AssemblyReference.cache
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\EF_LINQ\LTCSDL-EF-LINQ-Core\LTCSDL.BLL\obj\Debug\net5.0\LTCSDL.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\EF_LINQ\LTCSDL-EF-LINQ-Core\LTCSDL.BLL\obj\Debug\net5.0\LTCSDL.BLL.AssemblyInfoInputs.cache
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\EF_LINQ\LTCSDL-EF-LINQ-Core\LTCSDL.BLL\obj\Debug\net5.0\LTCSDL.BLL.AssemblyInfo.cs
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\EF_LINQ\LTCSDL-EF-LINQ-Core\LTCSDL.BLL\obj\Debug\net5.0\LTCSDL.BLL.csproj.CoreCompileInputs.cache
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\EF_LINQ\LTCSDL-EF-LINQ-Core\LTCSDL.BLL\obj\Debug\net5.0\LTCSDL.BLL.csproj.CopyComplete
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\EF_LINQ\LTCSDL-EF-LINQ-Core\LTCSDL.BLL\obj\Debug\net5.0\LTCSDL.BLL.dll
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\EF_LINQ\LTCSDL-EF-LINQ-Core\LTCSDL.BLL\obj\Debug\net5.0\ref\LTCSDL.BLL.dll
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\EF_LINQ\LTCSDL-EF-LINQ-Core\LTCSDL.BLL\obj\Debug\net5.0\LTCSDL.BLL.pdb

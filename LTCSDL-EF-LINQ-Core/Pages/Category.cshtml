@@ -1,0 +1,24 @@
+﻿@page
+@using LTCSDL.DTO
+@model LTCSDL_EF_LINQ_Core.Pages.CategoryModel
+@{
+}
+<div class="text-center">
+    <h1 class="display-4">Category</h1>
+    <p>Danh mục sản phẩm.</p>
+    <table class="table table-condensed">
+        <tr>
+            <th>Category ID</th>
+            <th>Category Name</th>
+            <th>Category Description</th>
+        </tr>
+        @foreach (CategoryDTO c in Model.lst)
+        {
+            <tr>
+                <td>@c.CategoryID</td>
+                <td>@c.CategoryName</td>
+                <td>@c.Description</td>
+            </tr>
+        }
+    </table>
+</div>
